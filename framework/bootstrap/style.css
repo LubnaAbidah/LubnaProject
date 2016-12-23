@@ -1,0 +1,33 @@
+/*login page
+background-color: #f1f2f7;*/
+
+.login-body {background-color:#000;
+opacity:0.4;
+filter:alpha(opacity=40);}
+.login-img-body{
+  background: url('./image/poli.jpg') no-repeat center center fixed ; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.login-img2-body{
+  background: url('./image/poli.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.login-img3-body{
+  background: url('./image/poli.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
