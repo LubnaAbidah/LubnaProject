@@ -1,6 +1,5 @@
 SiakadPolinela
 Siakad Polinela Tugas Projek Materi Kuliah Sistem Infromasi Berbasis Web menggunakan PHP Javascrpt dan Bootstrap Admin LTE
-
 Install
 
 unduh dan ekstrak ke localhost
